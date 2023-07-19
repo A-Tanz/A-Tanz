@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afraz Tanvir</h1>
 <h3 align="center">A passionate Full Stack Developer and a keen learner.</h3>
 
-- 🌱 I’m currently learning **Front End Frameworks**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 Reach me at **afraztanvir321@gmail.com**
 
